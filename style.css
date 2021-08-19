@@ -75,4 +75,5 @@ p {
   color: var(--primary-text-color);
   font-weight: bold;
   font-size: 1.3em;
+  padding: 0rem 2rem;
 }
